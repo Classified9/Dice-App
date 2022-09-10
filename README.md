@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description
+This project is an API that basically displays two die with a side, when being tapped on it shuffles.
 
-This project is a starting point for a Flutter application.
+by: Sherif Awofiranye
 
-A few resources to get you started if this is your first Flutter project:
+##Want to test the app?
+Clone this repo on your local machine and load it up on AndroidStudio or Xcode for (Mac users) Run lib/main.dart using your prefered Emulator or Simulator.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For more info, go to https://www.flutter.dev
